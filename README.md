@@ -1,5 +1,4 @@
 # ml-covid19-hasta-tahmin
-# ml-covid19-hasta-tahmini
 
 ## Proje Açıklaması
 
